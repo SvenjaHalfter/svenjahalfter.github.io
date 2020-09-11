@@ -16,3 +16,7 @@ My main interests are:
 - Role of planktion physiology, distribution and population dynamics in carbon export
 - Impact of climate change on Arctic and Antarctic ecosystems
 - Ocean data collection and management
+
+<figure>
+  <img src="assets/images/Infographic.png">
+</figure>
