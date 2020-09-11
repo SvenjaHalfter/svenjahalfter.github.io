@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Svenja Halfter
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Marine ecologist and biogeochemist
+
+I graduated with a Master of Science in Marine Biology at the [University of Rostock](https://www.uni-rostock.de/en/) in Germany and at the [University Centre in Svalbard](unis.no) in the Norway in 2017, before I moved to Australia for my PhD. I'm currently working on how zooplankton control the Biological Carbon Pump in the Southern Ocean at the [Institute for Marine and Antarctic studies](https://www.imas.utas.edu.au/) in Hobart, Tasmania. 
+
+My main interests are:
+- Role of planktion physiology, distribution and population dynamics in carbon export
+- Impact of climate change on Arctic and Antarctic ecosystems
+- Ocean data collection and management
