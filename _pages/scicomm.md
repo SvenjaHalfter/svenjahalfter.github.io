@@ -12,7 +12,7 @@ As part of the [National Science Week Australia](https://www.scienceweek.net.au/
    <figcaption>I introduce the students to zooplankton, in particular copepods (August 2018).</figcaption>
 </figure>
 
-I also sign up regularly for the ["Skype a Scientist"](https://www.skypeascientist.com/) program, which matches me with school classes all over the world, including Japan, India and USA.
+I sign up regularly for the ["Skype a Scientist"](https://www.skypeascientist.com/) program, which matches me with school classes all over the world, including Japan, India and USA.
 
 Additionally, I enjoy giving public talks, for example in March 2020 as part of the International Women's Day in the Little Creatures Brewery in Fremantle, WA. 
 
