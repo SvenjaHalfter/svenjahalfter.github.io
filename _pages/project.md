@@ -1,6 +1,6 @@
 ---
-permalink: /project/
-title: "Project"
+permalink: /current projects/
+title: "Current projects"
 ---
 
 ## Role of mesozooplankton in the Biological Carbon Pump of the Southern Ocean
@@ -18,4 +18,4 @@ I am part of the [Marine Ecosystem Assessment of the Southern Ocean](https://en.
 
 - I contributed to the amphipod pages of the Southern Ocean Knowledge and Information (SOKI) wiki as an encyclopaedic resource in 2019 to enable the development of the first MEASO.
 - Together with other ECRs, I wrote and developed an opinion piece on the benefits and obstacles of ECRs in large projects such as MEASO. Find more information [here](https://www.frontiersin.org/articles/10.3389/fmars.2020.00692/full). 
-- I am involved in two other MEASO publications, which are expected to come out as part of the [MEASO special issue](https://www.frontiersin.org/research-topics/10606/marine-ecosystem-assessment-for-the-southern-ocean-meeting-the-challenge-for-conserving-earth-ecosys#overview) in Frontiers of Marine Science. More information will follow soon. 
+- I am involved in two other MEASO publications, which are expected to come out as part of the [MEASO Special Issue](https://www.frontiersin.org/research-topics/10606/marine-ecosystem-assessment-for-the-southern-ocean-meeting-the-challenge-for-conserving-earth-ecosys#overview) in Frontiers of Marine Science. More information will follow soon. 
