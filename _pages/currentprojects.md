@@ -1,5 +1,5 @@
 ---
-permalink: /current projects/
+permalink: /currentprojects/
 title: "Current projects"
 ---
 
