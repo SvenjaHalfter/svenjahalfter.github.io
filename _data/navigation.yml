@@ -3,8 +3,8 @@ main:
     url: "/ "
   - title: "About"
     url: /about/
-  - title: "Project"
-    url: /project/
+  - title: "Current projects"
+    url: /currentprojects/
   - title: "Science communication"
     url: /scicomm/
   - title: "Publications"
