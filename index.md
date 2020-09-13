@@ -5,6 +5,11 @@ show_excerpts: true
 entries_layout: list
 description: ""
 ---
+<figure>
+  <img src="/assets/images/Umitaka_title.jpg" alt="">
+</figure>
 
-Welcome! Check out my research on plankton ecology and the marine carbon cycle, recent publications, coming up fieldwork and newest scicomm adventures!
+# Welcome!
+
+Check out my research on plankton ecology and the marine carbon cycle, recent publications, coming up fieldwork and newest scicomm adventures!
 
