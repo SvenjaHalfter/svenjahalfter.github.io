@@ -58,6 +58,7 @@ author:
   name   : "Svenja Halfter"
   avatar : "/assets/images/Profile_pic.JPG"
   bio    : "Marine ecologist and biogeochemist"
+  location: Hobart, Australia
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
