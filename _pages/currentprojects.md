@@ -17,5 +17,10 @@ In particular, I work on:
 I am part of the [Marine Ecosystem Assessment of the Southern Ocean](https://en.wikipedia.org/wiki/Marine_Ecosystem_Assessment_for_the_Southern_Ocean#:~:text=The%20Marine%20Ecosystem%20Assessment%20for,and%20Ecosystem%20Dynamics%20(ICED).), which started with the MEASO conference in 2018. 
 
 - I contributed to the amphipod pages of the Southern Ocean Knowledge and Information (SOKI) wiki as an encyclopaedic resource in 2019 to enable the development of the first MEASO.
-- Together with other ECRs, I wrote and developed an opinion piece on the benefits and obstacles of ECRs in large projects such as MEASO. Find more information [here](https://www.frontiersin.org/articles/10.3389/fmars.2020.00692/full). 
 - I am involved in two other MEASO publications, which are expected to come out as part of the [MEASO Special Issue](https://www.frontiersin.org/research-topics/10606/marine-ecosystem-assessment-for-the-southern-ocean-meeting-the-challenge-for-conserving-earth-ecosys#overview) in Frontiers of Marine Science. More information will follow soon. 
+- Together with other ECRs, I wrote and developed an opinion piece on the benefits and obstacles of ECRs in large projects such as MEASO. Find more information [here](https://www.frontiersin.org/articles/10.3389/fmars.2020.00692/full). 
+
+<figure>
+  <img src="/assets/images/Benefits_ECRs.png" alt="">
+   <figcaption>ECRs at the MEASO2018 conference and benefits for ECRs in joining large research initiatives. Figure from [Brasier et al. 2020](https://www.frontiersin.org/articles/10.3389/fmars.2020.00692/full) and infographic made by [Stacey McCormack](https://www.visualknowledge.design/).</figcaption>
+</figure>
