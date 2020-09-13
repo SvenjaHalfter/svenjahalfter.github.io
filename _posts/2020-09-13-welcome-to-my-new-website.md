@@ -16,5 +16,5 @@ Enjoy! :relaxed:
 
 <figure>
    <img src="/assets/images/Umitaka.jpg" style="float: right;" height = "200" alt="">
-   <figcaption>Credits: Osborne Images.</figcaption>
+   <figcaption>On the RV Umitaka-maru in January 2020. Credits: Itsuki Suto.</figcaption>
 </figure>
