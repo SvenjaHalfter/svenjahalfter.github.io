@@ -8,9 +8,9 @@ tags:
   - website
 ---
 
-This is my new website, which I set up with [Github pages](https://pages.github.com/) and which is inspired by the websites of my amazing supervisor and mentor [Emma Cavan](https://e-cavan.github.io/) and friend [Kimberlee Baldry](https://kimbaldry.github.io/FriendlyExperts/). Make sure you check out their work as well.
+This is my new website, which I set up with [Github Pages](https://pages.github.com/) and which is inspired by the websites of my amazing supervisor and mentor [Emma Cavan](https://e-cavan.github.io/) and friend [Kimberlee Baldry](https://kimbaldry.github.io/FriendlyExperts/). Make sure you check out their work as well!
 
-Here you will find all about my work, future fieldwork, recent publications and newest scicomm adventures!
+Here you will find all about my work, future fieldwork, recent publications and newest scicomm adventures.
 
 Enjoy! :relaxed:
 
