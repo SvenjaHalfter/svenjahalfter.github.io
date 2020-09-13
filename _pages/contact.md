@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact"
 ---
-You can contact Svenja 
+You can contact me
 
 - per email: Svenja.Halfter@utas.edu.au,
 - on [Twitter](https://twitter.com/svenja_halfter),
