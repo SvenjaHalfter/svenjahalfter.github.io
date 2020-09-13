@@ -22,5 +22,5 @@ I am part of the [Marine Ecosystem Assessment of the Southern Ocean](https://en.
 
 <figure>
   <img src="/assets/images/Benefits_ECRs.png" alt="">
-   <figcaption>ECRs at the MEASO2018 conference and benefits for ECRs in joining large research initiatives. Figure from [Brasier et al. 2020](https://www.frontiersin.org/articles/10.3389/fmars.2020.00692/full) and infographic made by [Stacey McCormack](https://www.visualknowledge.design/).</figcaption>
+   <figcaption>ECRs at the MEASO2018 conference and benefits for ECRs in joining large research initiatives, Figure from <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00692/full">Brasier et al. 2020</a> and infographic made by <a href="https://www.visualknowledge.design/">Stacey McCormack</a>.</figcaption>
 </figure>
