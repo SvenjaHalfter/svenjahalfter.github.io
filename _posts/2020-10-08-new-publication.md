@@ -14,5 +14,5 @@ We compared two sites: the northern Kerguelen Plateau, which is a naturally iron
 
 <figure>
    <img src="/assets/images/Infographic_final_version.jpg" style="float: right;" height = "200" alt="">
-   <figcaption>The role of zooplankton in establishing characteristic carbon export regimes in the subantarctic Southern Ocean.</figcaption>
+   <figcaption>The role of zooplankton in establishing characteristic carbon export regimes in the subantarctic Southern Ocean. Published in [Halfter et al. 2020](https://www.frontiersin.org/articles/10.3389/fmars.2020.567917/full), open access.</figcaption>
 </figure>
