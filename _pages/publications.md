@@ -5,6 +5,9 @@ title: "Publications"
 
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
+## Accpeted
+Cavanagh, R.D., Melbourne-Thomas, J., Grant, S.M., Barnes D.K.A., Hughes, K.A., **Halfter, S.** et al. Future risk for Southern Ocean ecosystem services under climate change. Frontiers in Marine Science.
+
 ## 2020
 **Halfter, S.** (2020). Treasure from the Deep - Using sediment traps to understand deep-sea biodiversity and carbon flux. ECO magazine, Polar Special Issue, pages 64-67. [Check it out here!](http://digital.ecomagazine.com/publication/?i=674747&ver=html5&p=64) 
 
