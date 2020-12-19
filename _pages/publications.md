@@ -5,7 +5,7 @@ title: "Publications"
 
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
-## Accpeted
+## Accepted
 Cavanagh, R.D., Melbourne-Thomas, J., Grant, S.M., Barnes D.K.A., Hughes, K.A., **Halfter, S.** et al. Future risk for Southern Ocean ecosystem services under climate change. Frontiers in Marine Science.
 
 ## 2020
