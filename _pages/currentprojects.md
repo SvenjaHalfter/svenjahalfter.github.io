@@ -9,8 +9,7 @@ This PhD projects explores how zooplankton affect the carbon export and sequestr
 In particular, I work on:
 - How zooplankton contributes in shaping the characteristic carbon export regimes in the Southern Ocean, looking at two case studies, the Kerguelen Plateau and the high nutrient low chlorophyll region south of Australia. You can read this literature review [here](https://www.frontiersin.org/articles/10.3389/fmars.2020.567917/full).
 - Zooplankton swimmer data at the Southern Ocean Time Series site at 47&deg;S south of Australia. This data is collected with long-term sediment traps from the deep ocean, which enables me to connect carbon flux with deep-sea species composition. 
-- The impact of zooplankton carcasses on the subantarctic carbon flux at certain times of the year, as carcasses have been traditionally overlooked when calculating the oceanic carbon budget.
-- The contribution of four dominant copepod species in the Indian sector of the Southern Ocean to passive carbon flux. This data was collected with the Japanese RV Umitaka-maru in January/February 2020. 
+- The impact of zooplankton carcasses on the subantarctic carbon flux at certain times of the year, as carcasses have been traditionally overlooked when calculating the oceanic carbon budget. 
 - Finding ways on measuring in-situ respiration of zooplankton to test global estimates and models of plankton respiration. 
 
 ## MEASO work
