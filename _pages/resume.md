@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 
-**Previous work experience**:
+##Previous work experience
 - April 2018 - present: **Casual staff member**, UTAS (Australia), tasks: teaching, proof-reading of Honours theses, outreach, planning of research expeditions, archiving of fisheries reports for FRDC
 - Aug - Oct 2017: **Marine Mammal Observer**, CIIMAR (Portugal) - CETUS project, tasks: observe marine mammals on routes between mainland Portugal and several Atlantic islands
 - Jul - Aug 2017: **Deckhand on the RV SOLEA**, Thünen Institute of Sea Fisheries (Germany), fishery voyage in the German EEZ, duties: identification, measurement, and weighing fish species of interest
