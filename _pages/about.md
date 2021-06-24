@@ -20,5 +20,5 @@ My main interests are:
 
 
 <figure>
-  <img src="/assets/images/infographic_new.png" alt="">
+  <img src="/assets/images/Infographic_new.png" alt="">
 </figure>
