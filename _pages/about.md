@@ -21,5 +21,5 @@ My main interests are:
 Previous years in a nutshell:
 
 <figure>
-  <img src="/assets/images/infographic.png" alt="">
+  <img src="/assets/images/infographic_new.png" alt="">
 </figure>
