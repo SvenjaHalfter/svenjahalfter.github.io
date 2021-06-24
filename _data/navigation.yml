@@ -9,5 +9,7 @@ main:
     url: /scicomm/
   - title: "Publications"
     url: /publications/
+  - title: "Resume"
+    url: /resume/
   - title: "Contact"
     url: /contact/
