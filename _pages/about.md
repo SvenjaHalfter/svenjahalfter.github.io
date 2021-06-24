@@ -18,7 +18,6 @@ My main interests are:
 - Impact of climate change on Arctic and Antarctic ecosystems
 - Ocean data collection and management
 
-Previous years in a nutshell:
 
 <figure>
   <img src="/assets/images/infographic_new.png" alt="">
