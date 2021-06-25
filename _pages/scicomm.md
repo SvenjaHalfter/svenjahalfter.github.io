@@ -1,6 +1,6 @@
 ---
 permalink: /scicomm/
-title: "SciComm & Teaching"
+title: "Teaching & SciComm"
 ---
 
 I am passionate about science communication, because I believe science should be accessible for everyone regardless of age, gender, nationality or socialeconomic background!
