@@ -5,6 +5,7 @@ title: "SciComm & Teaching"
 
 I am passionate about science communication, because I believe science should be accessible for everyone regardless of age, gender, nationality or socialeconomic background!
 
+## Teaching
 I tutored and lectured in the following university courses: 
 
 University of Tasmania
@@ -16,6 +17,7 @@ University of Tasmania
 Macquarie University
 - CAPSTAN Voyage 3 (Mar 2020)
 
+## Science communication
 As part of the [National Science Week Australia](https://www.scienceweek.net.au/), I was involved in the [Young Tassie Scientist](http://youngtassiescientists.com/) program in 2018 and 2020. I talked to over 1000 school kids from Kindergarten to Year 12 in schools all over Tasmania (2018 and 2021 in person, 2020 virtually), created videos about my life as marine scientist and did a radio interview for ABC Hobart. Watch my video [here](https://www.youtube.com/watch?reload=9&v=imvr14ruOrw&feature=emb_logo&ab_channel=TassieScienceWeek) and don't forget to check out the other scientists as well!
 
 <figure>
