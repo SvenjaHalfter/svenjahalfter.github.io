@@ -19,11 +19,6 @@ I am part of the [Marine Ecosystem Assessment of the Southern Ocean](https://en.
 - I am involved in two other MEASO publications, which are expected to come out as part of the [MEASO Special Issue](https://www.frontiersin.org/research-topics/10606/marine-ecosystem-assessment-for-the-southern-ocean-meeting-the-challenge-for-conserving-earth-ecosys#overview) in Frontiers of Marine Science. More information will follow soon. 
 - Together with other ECRs, I wrote and developed an opinion piece on the benefits and obstacles of ECRs in large projects such as MEASO. Find more information [here](https://www.frontiersin.org/articles/10.3389/fmars.2020.00692/full). 
 
-<figure>
-  <img src="/assets/images/Benefits_ECRs.png" alt="">
-   <figcaption>ECRs at the MEASO2018 conference and benefits for ECRs in joining large research initiatives. Figure from <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00692/full">Brasier et al. 2020</a> and infographic made by <a href="https://www.visualknowledge.design/">Stacey McCormack</a>.</figcaption>
-</figure>
-
 ## SOOS Indian Sector RWG
 I am part of the leadership team of the Regional Working Group for the Indian Sector of the Southern Ocean (Southern Ocean Observing System - [SOOS](https://www.soos.aq/)) as [APECS](https://www.apecs.is/) representative. We aim for a coordination and implementation of the ocean observing system in the region and cumulating efforts in field work planning up to data management. Stay tuned for exciting science and workshops that will follow soon! In the meantime, check out our latest [newsletter](https://mailchi.mp/cfff07d7ed95/sois-rwg-newsletter-5264400) and consider [signing up for SOOS](https://airtable.com/shrB23cytbgPosZEZ) to stay up to date.  
 <figure>
