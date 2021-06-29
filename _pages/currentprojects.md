@@ -23,5 +23,5 @@ I collaborated internationally to establish up a first [Marine Ecosystem Assessm
 ## SOOS Indian Sector RWG
 I am part of the leadership team of the Regional Working Group for the Indian Sector of the Southern Ocean (Southern Ocean Observing System - [SOOS](https://www.soos.aq/)) as [APECS](https://www.apecs.is/) representative. We aim for a coordination and implementation of the ocean observing system in the region and cumulating efforts in field work planning up to data management. Stay tuned for exciting science and workshops that will follow soon! In the meantime, check out our latest [newsletter](https://mailchi.mp/cfff07d7ed95/sois-rwg-newsletter-5264400) and consider [signing up for SOOS](https://airtable.com/shrB23cytbgPosZEZ) to stay up to date.  
 <figure>
-  <img src="/assets/images/RWG_SOIS_Colour.png" alt="", fig.width=10>
+  <img src="/assets/images/RWG_SOIS_Colour.png" width = "300" alt="">
 </figure>
