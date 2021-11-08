@@ -6,6 +6,8 @@ title: "Publications"
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## 2021
+**Halfter, S.**, Cavan, E. L., Butterworth, P., Swadling, K. M., & Boyd, P. W. (2021). [“Sinking dead” — How zooplankton carcasses contribute to particulate organic carbon flux in the subantarctic Southern Ocean](https://doi.org/10.1002/lno.11971). Limnology and Oceanography, Cv, 1–13. 
+
 Van de Putte, A. P., Griffiths, H. J., Brooks, C., Bricher, P., Sweetlove, M., **Halfter, S.**, & Raymond, B. (2021). [From Data to Marine Ecosystem Assessments of the Southern Ocean: Achievements, Challenges, and Lessons for the Future](https://doi.org/10.3389/fmars.2021.637063). Frontiers in Marine Science, 8 (October), 1–15. 
 
 Cavanagh, R.D., Melbourne-Thomas, J., Grant, S.M., Barnes D.K.A., Hughes, K.A., **Halfter, S.** et al. [Future risk for Southern Ocean ecosystem services under climate change](https://doi.org/10.3389/fmars.2020.615214). Frontiers in Marine Science. 7 (January), 1224.  
