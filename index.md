@@ -10,7 +10,7 @@ description: ""
   <img src="/assets/images/Umitaka_title.jpg" alt="">
 </figure>
 
-# Welcome!
+# Welcome to my website!
 
-Check out my research on plankton ecology and the marine carbon cycle, recent publications, coming up fieldwork and newest scicomm adventures!
+Read further about my current projects and research on plankton ecology and the marine carbon cycle, recent publications, coming up fieldwork and science communication initiatives. 
 
