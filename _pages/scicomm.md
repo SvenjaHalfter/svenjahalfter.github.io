@@ -18,11 +18,11 @@ Macquarie University
 - CAPSTAN Voyage 3 (Mar 2020)
 
 ## Science communication
-As part of the [National Science Week Australia](https://www.scienceweek.net.au/), I was involved in the [Young Tassie Scientist](http://youngtassiescientists.com/) program in 2018 and 2020. I talked to over 1000 school kids from Kindergarten to Year 12 in schools all over Tasmania (2018 and 2021 in person, 2020 virtually), created videos about my life as marine scientist and did a radio interview for ABC Hobart. Watch my video [here](https://www.youtube.com/watch?reload=9&v=imvr14ruOrw&feature=emb_logo&ab_channel=TassieScienceWeek) and don't forget to check out the other scientists as well!
+As part of the [National Science Week Australia](https://www.scienceweek.net.au/), I was involved in the [Young Tassie Scientist](http://youngtassiescientists.com/) program in 2018, 2020 and 2021. I talked to over 1000 school kids from Kindergarten to Year 12 in schools all over Tasmania (2018 and 2021 in person, 2020 virtually), created videos about my life and work as marine scientist and did a radio interview for ABC Hobart. Watch my video [here](https://www.youtube.com/watch?reload=9&v=imvr14ruOrw&feature=emb_logo&ab_channel=TassieScienceWeek) and don't forget to check out the other scientists as well!
 
 <figure>
    <img src="/assets/images/YTS_pic.jpg" style="float: right;" height = "200" alt="">
-   <figcaption>I introduce the students to zooplankton, in particular copepods (August 2018).</figcaption>
+   <figcaption>I introduced the students to zooplankton, in particular copepods (August 2018).</figcaption>
 </figure>
 
 I also enjoy giving public talks, for example in March 2020 as part of the International Women's Day in the Little Creatures Brewery in Fremantle, WA. 
