@@ -10,6 +10,7 @@ My main interests are:
 - Impact of climate change on Arctic and Antarctic ecosystems
 - Ocean data collection and management
 
+For further information of previous employments and projects, check out my [Linkedin profile](https://www.linkedin.com/in/svenja-halfter-2819a7107/).  
 
 <figure>
   <img src="/assets/images/Infographic_new.png" alt="">
