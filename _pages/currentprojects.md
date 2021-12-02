@@ -9,9 +9,6 @@ title: "Projects"
 
 **SOOS Indian Sector RWG (since 2020)**
 I am part of the leadership team of the Regional Working Group for the Indian Sector of the Southern Ocean (Southern Ocean Observing System - [SOOS](https://www.soos.aq/)) as [APECS](https://www.apecs.is/) representative. We aim for a coordination and implementation of the ocean observing system in the region and cumulating efforts in field work planning up to data management. Stay tuned for exciting science and workshops that will follow soon! In the meantime, check out our latest [newsletter](https://mailchi.mp/cfff07d7ed95/sois-rwg-newsletter-5264400) and consider [signing up for SOOS](https://airtable.com/shrB23cytbgPosZEZ) to stay up to date.  
-<figure>
-  <img src="/assets/images/RWG_SOIS_Colour.png" width = "100" alt="">
-</figure>
 
 **PhD project: Role of zooplankton in the Biological Carbon Pump of the subantarctic Southern Ocean (2017-2021)**
 This PhD project explored how zooplankton impact carbon export and sequestration in the subantarctic Southern Ocean. 
