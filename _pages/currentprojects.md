@@ -8,9 +8,11 @@ title: "Projects"
 
 
 **SOOS Indian Sector RWG (since 2020)**
+
 I am part of the leadership team of the Regional Working Group for the Indian Sector of the Southern Ocean (Southern Ocean Observing System - [SOOS](https://www.soos.aq/)) as [APECS](https://www.apecs.is/) representative. We aim for a coordination and implementation of the ocean observing system in the region and cumulating efforts in field work planning up to data management. Stay tuned for exciting science and workshops that will follow soon! In the meantime, check out our latest [newsletter](https://mailchi.mp/cfff07d7ed95/sois-rwg-newsletter-5264400) and consider [signing up for SOOS](https://airtable.com/shrB23cytbgPosZEZ) to stay up to date.  
 
 **PhD project: Role of zooplankton in the Biological Carbon Pump of the subantarctic Southern Ocean (2017-2021)**
+
 This PhD project explored how zooplankton impact carbon export and sequestration in the subantarctic Southern Ocean. 
 
 In particular, I worked on:
@@ -22,4 +24,5 @@ In particular, I worked on:
 ## Previous projects
 
 **MEASO (2018-2021)**
+
 I collaborated internationally to establish up a first [Marine Ecosystem Assessment of the Southern Ocean](https://en.wikipedia.org/wiki/Marine_Ecosystem_Assessment_for_the_Southern_Ocean#:~:text=The%20Marine%20Ecosystem%20Assessment%20for,and%20Ecosystem%20Dynamics%20(ICED).), which started with the MEASO conference in 2018. In addition to contributing to the amphipod pages of the Southern Ocean Knowledge and Information (SOKI) wiki as an encyclopaedic resource in 2019, I was involved in several [publications](https://svenjahalfter.github.io/publications/) that were published as part of the [MEASO Special Issue](https://www.frontiersin.org/research-topics/10606/marine-ecosystem-assessment-for-the-southern-ocean-meeting-the-challenge-for-conserving-earth-ecosys#overview) in Frontiers of Marine Science.
