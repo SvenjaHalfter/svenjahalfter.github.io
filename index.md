@@ -14,3 +14,6 @@ description: ""
 
 Read further about my current projects and research on plankton ecology and the marine carbon cycle, recent publications, coming up fieldwork and science communication initiatives. 
 
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/svenja_halfter maxwidth=500 limit=5 %}
+</div>
