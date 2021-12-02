@@ -54,12 +54,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
   
-# Create Gemfile
-source 'https://rubygems.org'
-group :jekyll_plugins do
-    gem 'github-pages'
-end
-
 author:
   name   : "Svenja Halfter"
   avatar : "/assets/images/Profile_pic.JPG"
