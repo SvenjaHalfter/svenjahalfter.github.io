@@ -5,6 +5,7 @@ title: "Projects"
 ## Current projects
 
 **SOLACE (since 2020)**
+
 I joined the [SOLACE](https://solace2020.net/) (Southern Ocean Large Area Carbon Export) voyage December 2020 - January 2021 to the subpolar and polar Southern Ocean under the umbrella of [JETZON](https://jetzon.org/). Currently, I am working as a research assistant to analyse the collected samples, focusing on the role of zooplankton and micronekton in the carbon transport through the oceans twilight zone. 
 
 **SOOS Indian Sector RWG (since 2020)**
