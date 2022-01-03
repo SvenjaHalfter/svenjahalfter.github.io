@@ -5,6 +5,9 @@ title: "Publications"
 
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
+## 2022
+Johnston, N. M., Murphy, E. J., Atkinson, A. A., Constable, A. J., Cotté, C. S., Cox, M., Daly, K., Driscoll, R., Flores, H., **Halfter, S.** et al. (in print). [Status, change and futures of zooplankton in the Southern Ocean](https://www.frontiersin.org/articles/10.3389/fevo.2021.624692/abstract). Frontiers in Ecology and Evolution. 
+
 ## 2021
 **Halfter, S.**, Cavan, E. L., Butterworth, P., Swadling, K. M., & Boyd, P. W. (2021). [“Sinking dead” — How zooplankton carcasses contribute to particulate organic carbon flux in the subantarctic Southern Ocean](https://doi.org/10.1002/lno.11971). Limnology and Oceanography, Cv, 1–13. 
 
