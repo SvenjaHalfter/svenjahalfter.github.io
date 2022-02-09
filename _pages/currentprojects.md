@@ -19,8 +19,7 @@ In December 2021, I joined the leadership team of the [Observing System Design G
 
 ## Previous projects
 **PhD project: Role of zooplankton in the Biological Carbon Pump of the subantarctic Southern Ocean (2017-2021)**
-
-This PhD project explored how zooplankton impact carbon export and sequestration in the subantarctic Southern Ocean. 
+This project explored how zooplankton impact carbon export and sequestration in the subantarctic Southern Ocean. 
 
 In particular, I worked on:
 - How zooplankton contributes in shaping the characteristic carbon export regimes in the Southern Ocean. You can read this literature review [here](https://www.frontiersin.org/articles/10.3389/fmars.2020.567917/full).
