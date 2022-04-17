@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
   
 author:
-  name   : "Svenja Halfter"
+  name   : "Svenja Halfter, PhD"
   avatar : "/assets/images/Profile_pic.JPG"
   bio    : "Marine ecologist & biogeochemist"
   location: Hobart, Australia
