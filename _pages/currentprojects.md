@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /research/
+title: "Research projects"
 ---
 ## Current projects
 **JETZON (since 2021)**
