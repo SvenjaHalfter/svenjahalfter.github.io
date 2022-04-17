@@ -9,7 +9,7 @@ I am passionate about science communication, because I believe science should be
 I tutored and lectured in the following university courses: 
 
 University of Tasmania
-- KSM201 Marine Resource Management and Conservation (Mar-Jun 2021)
+- KSM201 Marine Resource Management and Conservation (Mar-Jun 2021, Feb-Jun 2022)
 - KSM202 Marine and Antarctic ecosystems: (Jul 2018/2019, Aug 2020)
 - KSA715 Southern Ocean zooplankton ecology (May 2019)
 - KSM308 Marine ecology (Feb 2019/2020)
