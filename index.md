@@ -16,7 +16,7 @@ Read further about my current research projects, recent publications, coming up 
 
 # About me
 
-I graduated with a Master of Science in Marine Biology at the [University of Rostock](https://www.uni-rostock.de/en/) in Germany and at the [University Centre in Svalbard](unis.no) in Norway in 2017, before I moved to Australia for my PhD. I recently finished my PhD thesis on how zooplankton control the Biological Carbon Pump in the subantarctic Southern Ocean. I am currently finalising a position as research assistant at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/) in Hobart, Australia, before moving to Wellington, New Zealand, to start a new postdoctoral position at [NIWA](https://niwa.co.nz/) as plankton ecologist.  
+After graduating with a Master of Science in Marine Biology at the [University of Rostock](https://www.uni-rostock.de/en/) in Germany and at the [University Centre in Svalbard](unis.no) in Norway, I moved to Australia for my PhD in 2017. I recently finished my PhD thesis on how zooplankton control the Biological Carbon Pump in the subantarctic Southern Ocean. I am currently finalising a position as research assistant at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/) in Hobart, Australia, before moving to Wellington, New Zealand, to start a new postdoctoral position as a plankton ecologist with [NIWA](https://niwa.co.nz/).  
 
 My main interests are:
 - Role of plankton physiology, distribution and population dynamics in carbon export
