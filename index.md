@@ -25,5 +25,5 @@ My main interests are:
 
 # Contact
 
-Send me an email: mailto:Svenja.Halfter@utas.edu.au. 
+Send me an email: Svenja.Halfter@utas.edu.au. 
 
