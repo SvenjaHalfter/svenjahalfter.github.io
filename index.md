@@ -6,7 +6,8 @@ entries_layout: list
 author_profile: true
 description: ""
 ---
-# Welcome to my website!
+
+# Welcome!
 
 Read further about my current research projects, recent publications, coming up fieldwork and science communication initiatives. 
 
