@@ -1,6 +1,6 @@
 ---
 layout: home
-limit: 5
+limit: 0
 show_excerpts: true
 entries_layout: list
 author_profile: true
