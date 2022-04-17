@@ -23,5 +23,5 @@ My main interests are:
 - Impact of climate change on polar ecosystems
 - Ocean data collection and management
 
-For further information of previous employments and projects, check out my [Linkedin profile](https://www.linkedin.com/in/svenja-halfter-2819a7107/).  
+For further information of previous employments and projects, check out my [Linkedin profile](https://www.linkedin.com/in/svenja-halfter-2819a7107/) or send me an [email](Svenja.Halfter@utas.edu.au). 
 
