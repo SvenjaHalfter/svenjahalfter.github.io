@@ -7,7 +7,7 @@ title: "Research"
 As part of the [JETZON](https://jetzon.org/) ECR group, I currently work on an article to communicate the importance of the oceans' twilight zone. I am also responsible for organising the JETZON call (Australian time slot) to showcase current mesopelagic research.
 
 **ICED krill modelling (since 2021)** 
-Following the [ICED](https://www.iced.ac.uk/index.htm) krill workshop in May 2021 (find the workshop report [here](https://www.iced.ac.uk/products.htm)), I am currently working on a conceptional model for krill recruitment. Stay tuned for more information! 
+Following the [ICED](https://www.iced.ac.uk/index.htm) krill workshop in May 2021 (workshop report [here](https://www.iced.ac.uk/products.htm)), I am currently working on a conceptional model for krill recruitment. Stay tuned for more information! 
 
 **SOLACE (since 2020)**
 I joined the [SOLACE](https://solace2020.net/) (Southern Ocean Large Area Carbon Export) voyage December 2020 - January 2021 as [JETZON](https://jetzon.org/) project. Currently, I am working as a research assistant to analyse the collected samples. My research focuses on the role of zooplankton and micronekton in the carbon transport through the oceans twilight zone and I aim to quantify the seasonal lipid pump, jelly falls, and amphipod-mediated carbon export in the region. In addition, I collaborate with the CSIRO team on quantifying the mesopelagic migrant pump during the SOLACE voyage sampling period.
