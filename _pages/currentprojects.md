@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research projects"
+title: "Research"
 ---
 ## Current projects
 **JETZON (since 2021)**
