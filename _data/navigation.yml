@@ -3,11 +3,10 @@ main:
     url: "/ "
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
+  - title: "Research projects"
+    url: /research/
   - title: "Teaching & SciComm"
     url: /scicomm/
   - title: "Publications"
     url: /publications/
-  - title: "Contact"
-    url: /contact/
+  
