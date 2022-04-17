@@ -57,10 +57,10 @@ plugins:
 author:
   name   : "Svenja Halfter"
   avatar : "/assets/images/Profile_pic.JPG"
-  bio    : "Marine ecologist and biogeochemist"
+  bio    : "Marine ecologist & biogeochemist"
   location: Hobart, Australia
   links:
-    - label: "Website"
+    - label: "ResearchGate"
       icon: "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/Svenja_Halfter2"
     - label: "Twitter"
