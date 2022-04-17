@@ -1,0 +1,23 @@
+---
+title: "New job with NIWA in New Zealand"
+date: 2022-04-17T13:30
+categories:
+  - blog
+tags:
+  - ECR
+  - Postdoc
+  - sea ice
+---
+
+After finishing my PhD at IMAS (without corrections!!!) early this year, I found a job faster than expected! In July, I'll move to Wellington in New Zealand to start a new position as plankton ecologist. 
+
+I'll be involved in several projects, for example working with local Continuous Plankton Recorder data to understand the impact of climate change and marine heatwave on local plankton communities. 
+
+I'll also study plankton in and under the sea ice of the Ross Sea in the Southern Ocean. The Ross Sea was declared a Marine Protected Area by CCAMLR in 2016/2017. 
+My job will be to sample platelet ice, sea ice that is formed due to supercooling of water masses and leads to ice growth from the basis of the sea ice, with the aim to understand how sea ice and pelagic ecosytems are connected.
+I hope to be on the next trip down to Antarctica in early 2023 on the ice breaker RV Tangaroa. Exciting times ahead!
+
+<figure>
+   <img src="/assets/images/rosssea_iconic_species_protected.png" style="float: right;" height = "200" alt="">
+   <figcaption> The Ross Sea Marine Protected Area. Figure by WWF. </figcaption>
+</figure>
