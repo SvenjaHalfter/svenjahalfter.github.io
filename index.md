@@ -6,14 +6,13 @@ entries_layout: list
 author_profile: true
 description: ""
 ---
+<figure>
+  <img src="/assets/images/Umitaka_title.jpg" alt="">
+</figure>
 
 # Welcome!
 
 Read further about my current research projects, recent publications, coming up fieldwork and science communication initiatives. 
-
-<figure>
-  <img src="/assets/images/Umitaka_title.jpg" alt="">
-</figure>
 
 # About me
 
