@@ -6,6 +6,8 @@ title: "Publications"
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## 2022
+Newman, L., Hancock, M. A., Hofmann, E., Williams, M. J. M., Henley, S. F.,(...) **Halfter, S.** et. al., (2022). [The Southern Ocean Observing System 2021-2025 Science and Implementation Plan](https://doi.org/10.5281/zenodo.6324359)
+
 Johnston, N. M., Murphy, E. J., Atkinson, A. A., Constable, A. J., Cotté, C. S., Cox, M., Daly, K., Driscoll, R., Flores, H., **Halfter, S.** et al. (2022). [Status, change and futures of zooplankton in the Southern Ocean](https://doi.org/10.3389/fevo.2021.624692). Frontiers in Ecology and Evolution, 9 (June), 1-41. 
 
 ## 2021
