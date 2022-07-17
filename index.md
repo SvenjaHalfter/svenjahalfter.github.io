@@ -16,14 +16,14 @@ Read further about my current research projects, recent publications, coming up 
 
 # About me
 
-After graduating with a Master of Science in Marine Biology at the [University of Rostock](https://www.uni-rostock.de/en/) in Germany and at the [University Centre in Svalbard](unis.no) in Norway, I moved to Australia for my PhD in 2017. I recently finished my PhD thesis on how zooplankton control the Biological Carbon Pump in the subantarctic Southern Ocean. I am currently finalising a position as research assistant at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/) in Hobart, Australia, before moving to Wellington, New Zealand, to start a new postdoctoral position as a plankton ecologist with [NIWA](https://niwa.co.nz/).  
+After graduating with a Master of Science in Marine Biology at the [University of Rostock](https://www.uni-rostock.de/en/) in Germany and at the [University Centre in Svalbard](unis.no) in Norway, I moved to Australia for my PhD in 2017. In early 2022, I finished the PhD on the impact of zooplankton on the subantarctic Biological Carbon Pump at [IMAS](https://www.imas.utas.edu.au/) and I recently moved to New Zealand to work as a zooplankton ecologist for [NIWA](https://niwa.co.nz/).
 
 My main interests are:
-- Role of plankton physiology, distribution and population dynamics in carbon export
-- Impact of climate change on polar ecosystems
+- Impact of plankton physiology, distribution, and population dynamics on ecosystem and carbon export
+- Climate change in polar ecosystems
 - Ocean data collection and management
 
 # Contact
 
-Send me an email: Svenja.Halfter@utas.edu.au. 
+Send me an email: Svenja.Halfter@niwa.co.nz.
 
