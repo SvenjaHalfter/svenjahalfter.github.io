@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Svenja Halfter
-email: Svenja.Halfter@utas.edu.au
+email: Svenja.Halfter@niwa.co.nz
 description: Research website for Svenja Halfter, marine ecologist and biogeochemist.
 twitter_username: svenja_halfter
 github_username: SvenjaHalfter
@@ -58,7 +58,7 @@ author:
   name   : "Svenja Halfter, Ph.D."
   avatar : "/assets/images/Profile_pic.JPG"
   bio    : "Marine ecologist & biogeochemist"
-  location: Hobart, Australia
+  location: Wellington, New Zealand
   links:
     - label: "ResearchGate"
       icon: "fas fa-fw fa-link"
