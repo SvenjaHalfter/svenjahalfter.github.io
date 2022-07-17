@@ -3,21 +3,28 @@ permalink: /research/
 title: "Research"
 ---
 ## Current projects
+**Continuous Plankton Recorder project - phase 3 (since 2022)**
+I'll work with CPR data in the coming years to understand how climate change impact the surface distribution of zooplankton within the New Zealand EEZ and in the Ross Sea in the Southern Ocean. More information to follow soon.
+
+**Antarctic Science Platform (ASP) and Ross-RAMP (since 2022)**
+I'll join the next [ASP](https://www.antarcticscienceplatform.org.nz/) voyage on the RV Tangaroa to the Ross Sea in January 2023. My work focuses on the distribution of the most common zooplankton and micronekton taxa, e.g. Antarctic and Crystal krill, juvenile Antarctic silverfish, copepods and salps. In addition, I'll also work with sea ice samples of platelet ice to understand the ecological connections between ice and the water column below.
+
 **JETZON (since 2021)**
 As part of the [JETZON](https://jetzon.org/) ECR group, I currently work on an article to communicate the importance of the oceans' twilight zone. I am also responsible for organising the JETZON call (Australian time slot) to showcase current mesopelagic research.
 
 **ICED krill modelling (since 2021)** 
 Following the [ICED](https://www.iced.ac.uk/index.htm) krill workshop in May 2021 (workshop report [here](https://www.iced.ac.uk/products.htm)), I am currently working on a conceptional model for krill recruitment. Stay tuned for more information! 
 
-**SOLACE (since 2020)**
-I joined the [SOLACE](https://solace2020.net/) (Southern Ocean Large Area Carbon Export) voyage December 2020 - January 2021 as [JETZON](https://jetzon.org/) project. Currently, I am working as a research assistant to analyse the collected samples. My research focuses on the role of zooplankton and micronekton in the carbon transport through the oceans twilight zone and I aim to quantify the seasonal lipid pump, jelly falls, and amphipod-mediated carbon export in the region. In addition, I collaborate with the CSIRO team on quantifying the mesopelagic migrant pump during the SOLACE voyage sampling period.
-
 **SOOS leadership (since 2020)**
 Since November 2020, I have been part of the leadership team of the Regional Working Group for the Indian Sector of the Southern Ocean ([SOOS](https://www.soos.aq/activities/rwg/sois)) as [APECS](https://www.apecs.is/) representative. We aim for a coordination and implementation of the ocean observing system in the region and cumulating efforts in field work planning up to data management. At the moment, I am working on reviewing the spatial and temporal coverage of ocean observations in the region - Stay tuned for updates!
 
-In December 2021, I joined the leadership team of the [Observing System Design Group](https://www.soos.aq/activities/cwg/osd). We aim to review observing system design methodologies in the Southern Ocean, develop OSD community guidelines, and connect the ocean observing community. Sign up for SOOS [here](https://airtable.com/shrB23cytbgPosZEZ) to stay up to date.  
-
 ## Previous projects
+**SOLACE (2020-2022)**
+I joined the [SOLACE](https://solace2020.net/) (Southern Ocean Large Area Carbon Export) voyage December 2020 - January 2021 as [JETZON](https://jetzon.org/) project. 
+I recently finalised the sample analysis as part of a research assistant position at IMAS and am now working on the publishing the results.
+
+My research focused on the role of zooplankton and micronekton in the carbon transport through the oceans twilight zone. I aim to quantify the seasonal lipid pump, jelly falls, and amphipod-mediated carbon export in the region. In addition, I collaborated with the CSIRO team on quantifying the mesopelagic migrant pump during the SOLACE voyage.
+
 **PhD project: Role of zooplankton in the Biological Carbon Pump of the subantarctic Southern Ocean (2017-2021)**
 This project explored how zooplankton impact carbon export and sequestration in the subantarctic Southern Ocean. 
 
