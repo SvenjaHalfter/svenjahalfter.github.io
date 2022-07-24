@@ -7,7 +7,7 @@ title: "Research"
 I'll work with CPR data in the coming years to understand how climate change impact the surface distribution of zooplankton within the New Zealand EEZ and in the Ross Sea in the Southern Ocean. More information to follow soon.
 
 **Antarctic Science Platform (ASP) and Ross-RAMP (since 2022)**
-I'll join the next [ASP](https://www.antarcticscienceplatform.org.nz/) voyage on the RV Tangaroa to the Ross Sea in January 2023. My work focuses on the distribution of the most common zooplankton and micronekton taxa, e.g. Antarctic and Crystal krill, juvenile Antarctic silverfish, copepods and salps. In addition, I'll also work with sea ice samples of platelet ice to understand the ecological connections between ice and the water column below.
+With [New Zealand Antarctica](https://www.antarcticanz.govt.nz/), I'll work on sympagic fauna found in sea ice during the upcoming field season in the Ross Sea, funded by the [Antarctic Science Platform](https://www.antarcticscienceplatform.org.nz/). In addition, I'll join the next RV Tangaroa voyage to the Ross Sea in January 2023. My work there will focus on the distribution of the most common zooplankton and micronekton taxa, e.g. Antarctic krill, juvenile Antarctic silverfish, copepods, and salps. 
 
 **JETZON (since 2021)**
 As part of the [JETZON](https://jetzon.org/) ECR group, I currently work on an article to communicate the importance of the oceans' twilight zone. I am also responsible for organising the JETZON call (Australian time slot) to showcase current mesopelagic research.
