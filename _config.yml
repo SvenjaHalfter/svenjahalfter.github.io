@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Svenja Halfter
 email: Svenja.Halfter@niwa.co.nz
-description: Research website for Svenja Halfter, marine ecologist and biogeochemist.
+description: Research website for Svenja Halfter, zooplankton ecologist and biogeochemist.
 twitter_username: svenja_halfter
 github_username: SvenjaHalfter
 minimal_mistakes_skin: contrast
