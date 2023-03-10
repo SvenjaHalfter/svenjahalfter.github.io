@@ -4,8 +4,11 @@ title: "Teaching & SciComm"
 ---
 
 I believe: 
+
 (1) Science should be accessible for everyone regardless of age, gender, nationality or socialeconomic background
+
 (2) My projects are only finished, once results are properly communicated
+
 (3) Everybody can understand science, it only depends on scicomm skills!
 
 ## Teaching
