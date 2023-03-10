@@ -56,8 +56,8 @@ plugins:
   
 author:
   name   : "Svenja Halfter, Ph.D."
-  avatar : "/assets/images/Profile_pic.JPG"
-  bio    : "Marine ecologist & biogeochemist"
+  avatar : "/assets/images/Profile_pic_new.JPG"
+  bio    : "Zooplankton ecologist & biogeochemist"
   location: Wellington, New Zealand
   links:
     - label: "ResearchGate"
