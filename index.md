@@ -7,7 +7,7 @@ author_profile: true
 description: ""
 ---
 <figure>
-  <img src="/assets/images/Umitaka_title.jpg" alt="">
+  <img src="/assets/images/Tents.JPG" alt="">
 </figure>
 
 # Welcome!
@@ -16,12 +16,13 @@ Read further about my current research projects, recent publications, coming up 
 
 # About me
 
-After graduating with a Master of Science in Marine Biology at the [University of Rostock](https://www.uni-rostock.de/en/) in Germany and at the [University Centre in Svalbard](unis.no) in Norway, I moved to Australia for my PhD in 2017. In early 2022, I finished the PhD on the impact of zooplankton on the subantarctic Biological Carbon Pump at [IMAS](https://www.imas.utas.edu.au/) and I recently moved to New Zealand to work as a zooplankton ecologist for [NIWA](https://niwa.co.nz/).
+I'm a marine scientist with a MSc in Marine Biology from the [University of Rostock](https://www.uni-rostock.de/en/) in Germany and the [University Centre in Svalbard](unis.no) in Norway and a PhD degree from the [University of Tasmania](https://www.utas.edu.au/) in Australia. 
+Since July 2022, I work for [NIWA](https://niwa.co.nz/) Wellington in New Zealand as zooplankton ecologist. I have extensive experience in ship- and ice-based fieldwork and am passionate in communicating my research to a broad audience.
 
-My main interests are:
-- Impact of plankton physiology, distribution, and population dynamics on ecosystem and carbon export
-- Climate change in polar ecosystems
-- Ocean data collection and management
+My main research interests are:
+- Relationship between plankton physiology, distribution, and population dynamics, and the Biological Carbon Pump
+- Impact of climate change on polar regions, especially on sea-ice ecosystems, and temperate waters around NZ
+- Ocean observations and data management
 
 # Contact
 
