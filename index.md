@@ -7,7 +7,7 @@ author_profile: true
 description: ""
 ---
 <figure>
-  <img src="/assets/images/Tents.JPG" alt="">
+  <img src="/assets/images/Tents_2.JPG" alt="">
 </figure>
 
 # Welcome!
