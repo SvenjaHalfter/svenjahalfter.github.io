@@ -5,11 +5,11 @@ title: "Teaching & SciComm"
 
 I believe: 
 
-(1) Science should be accessible for everyone regardless of age, gender, nationality or socialeconomic background
+(1) Science should be accessible for everyone regardless of age, gender, nationality or socialeconomic background.
 
-(2) My projects are only finished, once results are properly communicated
+(2) My projects are only finished, once results are properly communicated.
 
-(3) Everybody can understand science, it only depends on scicomm skills!
+(3) Everybody can understand science, and it only relies on good scicomm skills!
 
 ## Teaching
 During my time in Australia, I tutored and lectured in the following university courses: 
@@ -35,6 +35,6 @@ As part of the [National Science Week Australia](https://www.scienceweek.net.au/
 I also enjoy giving public talks, for example in March 2020 as part of the International Women's Day in the Little Creatures Brewery in Fremantle or for the NZ Antarctic Society in March 2023. 
 
 <figure>
-   <img src="/assets/images/Plakat.jpg" style="float: right;" alt="">
+   <img src="/assets/images/Flyer - FoTI 2023.png" style="float: right;" height = "200" alt="">
 </figure>
 
