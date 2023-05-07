@@ -6,7 +6,7 @@ title: "Publications"
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## 2023
-Bisson, K., McMonagle, H., Iglesias, I., **Halfter, S.**, Gallo, N. (in print). Five reasons to take the precautionary approach to deep sea exploitation. Communications Earth and Environment.
+Bisson, K., McMonagle, H., Iglesias, I., **Halfter, S.**, Gallo, N. (in print). [Five reasons to take the precautionary approach to deep sea exploitation](https://www.nature.com/articles/s43247-023-00823-4). Communications Earth and Environment, 4 (1), 153.
 
 ## 2022
 
