@@ -1,6 +1,6 @@
 ---
 title: "Taking the precautionary approach to deep-sea exploitation"
-date: 2023-05-10T10:34:30
+date: 2023-05-10
 categories:
   - blog
 tags:
