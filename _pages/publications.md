@@ -28,14 +28,13 @@ Cavanagh, R.D., Melbourne-Thomas, J., Grant, S.M., Barnes D.K.A., Hughes, K.A., 
 
 Brasier, M. J., McCormack, S., Bax, N., Caccavo, J. A., Cavan, E., Ericson, J. A., Figuerola, B., Hancock, A., **Halfter, S.** et al. (2020). [Overcoming the Obstacles Faced by Early Career Researchers in Marine Science : Lessons From the Marine Ecosystem Assessment for the Southern Ocean](https://doi.org/10.3389/fmars.2020.00692). Frontiers in Marine Science, 7 (August), 1–9. 
 
-Sakurai, H., Moteki, M., Shimada, K., Tachibana, A., Yasuda, M., Tanaka, A., Hamamoto, H., Weldrick, C., **Halfter, S.** et al. (2020). [Plankton sampling by the training vessel Umitaka-maru in the Indian sector of the Southern Ocean in the austral summer of 2020](https://www.researchgate.net/publication/343442106_Plankton_sampling_by_the_training_vessel_Umitaka-maru_in_the_Indian_sector_of_the_Southern_Ocean_in_the_austral_summer_of_2020). JARE DATA REPORTS (Marine Biology), 67, 1–8. 
-
 **Halfter, S.**, & Coleman, C. O. (2019). [Chevreuxiopsis franki gen. n., sp. n. (Crustacea, Amphipoda,Thoriellidae ) from the deep sea southwest of Tasmania](https://doi.org/10.3897/zse.95.32548). Zoosystematics and Evolution, 95(1), 125–132. 
 
-## Reports (Internal/public)
+## Reports (Internal/external)
 
-**Halfter, S.** (2023). Integrating a zooplankton component in the Munida time-series. Internal report to the OCOF-program Flux and Productivity funded by NIWA's Strategic Science Investment Fund. Submitted in June 4p.
+**Halfter, S.** (2023). Integrating a zooplankton component in the Munida time-series. Internal report to the OCOF-program Flux and Productivity funded by NIWA's Strategic Science Investment Fund. Submitted in June 2023. Internal report, 4p. 
 
+Sakurai, H., Moteki, M., Shimada, K., Tachibana, A., Yasuda, M., Tanaka, A., Hamamoto, H., Weldrick, C., **Halfter, S.** et al. (2020). [Plankton sampling by the training vessel Umitaka-maru in the Indian sector of the Southern Ocean in the austral summer of 2020](https://www.researchgate.net/publication/343442106_Plankton_sampling_by_the_training_vessel_Umitaka-maru_in_the_Indian_sector_of_the_Southern_Ocean_in_the_austral_summer_of_2020). JARE DATA REPORTS (Marine Biology), 67, 1–8. 
 
 ## Other publications
 
