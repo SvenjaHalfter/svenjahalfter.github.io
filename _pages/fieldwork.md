@@ -1,6 +1,6 @@
 ---
 permalink: /fieldwork/
-title: "Field work"
+title: "Fieldwork"
 ---
 
 ## Coming up
