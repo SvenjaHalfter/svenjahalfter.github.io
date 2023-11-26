@@ -1,6 +1,6 @@
 ---
-permalink: /data/
-title: "Datasets"
+permalink: /fieldwork/
+title: "Field work"
 ---
 
 More to follow soon!
