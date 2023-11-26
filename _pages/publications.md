@@ -28,7 +28,7 @@ Cavanagh, R.D., Melbourne-Thomas, J., Grant, S.M., Barnes D.K.A., Hughes, K.A., 
 
 Brasier, M. J., McCormack, S., Bax, N., Caccavo, J. A., Cavan, E., Ericson, J. A., Figuerola, B., Hancock, A., **Halfter, S.** et al. (2020). [Overcoming the Obstacles Faced by Early Career Researchers in Marine Science : Lessons From the Marine Ecosystem Assessment for the Southern Ocean](https://doi.org/10.3389/fmars.2020.00692). Frontiers in Marine Science, 7 (August), 1–9. 
 
-**Halfter, S.**, & Coleman, C. O. (2019). [Chevreuxiopsis franki gen. n., sp. n. (Crustacea, Amphipoda,Thoriellidae ) from the deep sea southwest of Tasmania](https://doi.org/10.3897/zse.95.32548). Zoosystematics and Evolution, 95(1), 125–132. 
+**Halfter, S.**, & Coleman, C. O. (2019). [Chevreuxiopsis franki gen. n., sp. n. (Crustacea, Amphipoda, Thoriellidae) from the deep sea southwest of Tasmania](https://doi.org/10.3897/zse.95.32548). Zoosystematics and Evolution, 95(1), 125–132. 
 
 ## Reports (Internal/external)
 
