@@ -32,7 +32,9 @@ Brasier, M. J., McCormack, S., Bax, N., Caccavo, J. A., Cavan, E., Ericson, J. A
 
 ## Reports (Internal/external)
 
-**Halfter, S.** (2023). Integrating a zooplankton component in the Munida time-series. Internal report to the OCOF-program Flux and Productivity funded by NIWA's Strategic Science Investment Fund. Submitted in June 2023. Internal report, 4p. 
+Pinkerton, M.H., Adams, C.I.M., Behrens, E., Devine, J., Eisert, R., Finucci, B., Grüss, A., **Halfter, S.** et al. (2023). New Zealand research and monitoring in support of the Ross Sea region Marine Protected Area: 2022–2023 update. Report number: WG-EMM_2023/07. CCAMLR, Hobart, Australia, 16pp. 
+
+**Halfter, S.** (2023). Integrating a zooplankton component in the Munida time-series. Internal report to the OCOF-program Flux and Productivity funded by NIWA's Strategic Science Investment Fund. Submitted in June 2023. Internal report, 4pp. 
 
 Sakurai, H., Moteki, M., Shimada, K., Tachibana, A., Yasuda, M., Tanaka, A., Hamamoto, H., Weldrick, C., **Halfter, S.** et al. (2020). [Plankton sampling by the training vessel Umitaka-maru in the Indian sector of the Southern Ocean in the austral summer of 2020](https://www.researchgate.net/publication/343442106_Plankton_sampling_by_the_training_vessel_Umitaka-maru_in_the_Indian_sector_of_the_Southern_Ocean_in_the_austral_summer_of_2020). JARE DATA REPORTS (Marine Biology), 67, 1–8. 
 
