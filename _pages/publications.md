@@ -12,10 +12,6 @@ Boyd, P. W., Antoine, D., Baldry, K.A., Cornec, M., Ellwood, M., **Halfter, S.**
 
 Bisson, K., McMonagle, H., Iglesias, I., **Halfter, S.**, Gallo, N. (2023). [Five reasons to take the precautionary approach to deep sea exploitation](https://www.nature.com/articles/s43247-023-00823-4). Communications Earth and Environment, 4 (1), 153.
 
-**Halfter, S.** (2022). [The role of zooplankton in the biological carbon pump of the subantarctic Southern Ocean](https://eprints.utas.edu.au/47565/). PhD thesis, University of Tasmania. 
-
-Newman, L., Hancock, M. A., Hofmann, E., Williams, M. J. M., Henley, S. F.,(...) **Halfter, S.** et. al., (2022). [The Southern Ocean Observing System 2021-2025 Science and Implementation Plan](https://doi.org/10.5281/zenodo.6324359).
-
 Johnston, N. M., Murphy, E. J., Atkinson, A. A., Constable, A. J., Cotté, C. S., Cox, M., Daly, K., Driscoll, R., Flores, H., **Halfter, S.** et al. (2022). [Status, change and futures of zooplankton in the Southern Ocean](https://doi.org/10.3389/fevo.2021.624692). Frontiers in Ecology and Evolution, 9 (June), 1-41. 
 
 **Halfter, S.**, Cavan, E. L., Butterworth, P., Swadling, K. M., & Boyd, P. W. (2021). [“Sinking dead” — How zooplankton carcasses contribute to particulate organic carbon flux in the subantarctic Southern Ocean](https://doi.org/10.1002/lno.11971). Limnology and Oceanography, Cv, 1–13. 
@@ -30,11 +26,21 @@ Brasier, M. J., McCormack, S., Bax, N., Caccavo, J. A., Cavan, E., Ericson, J. A
 
 **Halfter, S.**, & Coleman, C. O. (2019). [Chevreuxiopsis franki gen. n., sp. n. (Crustacea, Amphipoda, Thoriellidae) from the deep sea southwest of Tasmania](https://doi.org/10.3897/zse.95.32548). Zoosystematics and Evolution, 95(1), 125–132. 
 
-## Reports (Internal/external)
+## Thesis
+
+**Halfter, S.** (2022). [The role of zooplankton in the biological carbon pump of the subantarctic Southern Ocean](https://eprints.utas.edu.au/47565/). PhD thesis, University of Tasmania, Australia. Submitted: Nov 2021.
+
+**Halfter, S.** (2017). Large-scale phenology of marine plankton in the North Atlantic and Arctic Ocean. Master's thesis, University of Rostock, Germany. Submitted: May 2017. 
+
+## Technical reports (Internal/external)
+
+Pinkerton, M.H., and **Halfter, S.** (2023). Environmental change in the Southern Ocean: observations, trends, bioregions, and species-distribution models. CCAMLR, Hobart, Australia, 4pp. 
 
 Pinkerton, M.H., Adams, C.I.M., Behrens, E., Devine, J., Eisert, R., Finucci, B., Grüss, A., **Halfter, S.** et al. (2023). New Zealand research and monitoring in support of the Ross Sea region Marine Protected Area: 2022–2023 update. Report number: WG-EMM_2023/07. CCAMLR, Hobart, Australia, 16pp. 
 
 **Halfter, S.** (2023). Integrating a zooplankton component in the Munida time-series. Internal report to the OCOF-program Flux and Productivity funded by NIWA's Strategic Science Investment Fund. Submitted in June 2023. Internal report, 4pp. 
+
+Newman, L., Hancock, M. A., Hofmann, E., Williams, M. J. M., Henley, S. F.,(...) **Halfter, S.** et. al., (2022). [The Southern Ocean Observing System 2021-2025 Science and Implementation Plan](https://doi.org/10.5281/zenodo.6324359).
 
 Sakurai, H., Moteki, M., Shimada, K., Tachibana, A., Yasuda, M., Tanaka, A., Hamamoto, H., Weldrick, C., **Halfter, S.** et al. (2020). [Plankton sampling by the training vessel Umitaka-maru in the Indian sector of the Southern Ocean in the austral summer of 2020](https://www.researchgate.net/publication/343442106_Plankton_sampling_by_the_training_vessel_Umitaka-maru_in_the_Indian_sector_of_the_Southern_Ocean_in_the_austral_summer_of_2020). JARE DATA REPORTS (Marine Biology), 67, 1–8. 
 
