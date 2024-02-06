@@ -38,12 +38,17 @@ Pinkerton, M.H., and **Halfter, S.** (2023). Environmental change in the Souther
 
 Pinkerton, M.H., Adams, C.I.M., Behrens, E., Devine, J., Eisert, R., Finucci, B., Grüss, A., **Halfter, S.** et al. (2023). New Zealand research and monitoring in support of the Ross Sea region Marine Protected Area: 2022–2023 update. Report number: WG-EMM_2023/07. CCAMLR, Hobart, Australia, 16pp. 
 
+Mountjoy, J., Ladroit, Y., Mills, S., Law, C., Lamare, M., Twigge, O., Van Rossem, H., Spain, E., George, S., Canese, S., Kolzenburg, R., Quinn, W., Deppeler, S.,  **Halfter, S.** et al. (2023). 2023 Ross Sea Antarctic Voyage. TAN2302 Voyage Report. Submitted in July 2023. 223pp.  
+
 **Halfter, S.** (2023). Integrating a zooplankton component in the Munida time-series. Internal report to the OCOF-program Flux and Productivity funded by NIWA's Strategic Science Investment Fund. Submitted in June 2023. Internal report, 4pp. 
 
 Newman, L., Hancock, M. A., Hofmann, E., Williams, M. J. M., Henley, S. F.,(...) **Halfter, S.** et. al., (2022). [The Southern Ocean Observing System 2021-2025 Science and Implementation Plan](https://doi.org/10.5281/zenodo.6324359).
 
 Sakurai, H., Moteki, M., Shimada, K., Tachibana, A., Yasuda, M., Tanaka, A., Hamamoto, H., Weldrick, C., **Halfter, S.** et al. (2020). [Plankton sampling by the training vessel Umitaka-maru in the Indian sector of the Southern Ocean in the austral summer of 2020](https://www.researchgate.net/publication/343442106_Plankton_sampling_by_the_training_vessel_Umitaka-maru_in_the_Indian_sector_of_the_Southern_Ocean_in_the_austral_summer_of_2020). JARE DATA REPORTS (Marine Biology), 67, 1–8. 
 
-## Other publications
+## Other publications/popular press
+ABC News (02/10/2022), “Scientists hopeful tiny ocean zooplankton will help tell if climate change targets are met” ([Link](https://www.abc.net.au/news/2022-10-02/zooplankton-study-southern-ocean-co2-global-warming/101490946))  
 
 **Halfter, S.** (2020). Treasure from the Deep - Using sediment traps to understand deep-sea biodiversity and carbon flux. ECO magazine, Polar Special Issue, pages 64-67. Available [here](http://digital.ecomagazine.com/publication/?i=674747&ver=html5&p=64).
+
+
