@@ -3,11 +3,7 @@ permalink: /fieldwork/
 title: "Fieldwork"
 ---
 
-## Coming up
-
-**Jan-Feb 2024**: *RV Laura Bassi* (30 days), Ross Sea polynya & eastern Ross Sea continental shelf, Tasks: Sample collection with nets, the ship's underway system, and the Continuous Plankton Recorder. Contact me if you are interested in samples from the region. 
-
-## Completed
+**Jan-Mar 2024**: *RV Laura Bassi* (36 days), Ross Ice Shelf, eastern and northwestern Ross Sea, Tasks: Zooplankton collection with nets and the Continuous Plankton Recorder. Assisting with drone flights, water sampling, and acoustic calibrations. More information [here](https://www.antarcticscienceplatform.org.nz/research/biodiversity-voyage). 
 
 **Jan-Feb 2023**: *RV Tangaroa* (TAN2302, 45 days), northwestern coast and continental shelf in the Ross Sea, Tasks: Sample collection with nets, the ship's underway system, and the Continuous Plankton Recorder. More information [here](https://niwa.co.nz/our-science/voyages/2023_Antarctica). 
 
@@ -23,7 +19,11 @@ title: "Fieldwork"
 
 **Aug 2019**: *RV Umitaka-maru* (UM-19-06, 7 days), Hakodate to Tokyo, Tasks: training in using various nets and other gear to be used on the Antarctic voyage. 
 
-**Mar 2019**: *RV Investigator* (IN2019_V02), Subantarctic Southern Ocean. 
+**Mar 2019**: *RV Investigator* (IN2019_V02, 22 days), Subantarctic Southern Ocean, Tasks: Sampling of zooplankton, in particular pyrosomes, and performing decomposition and sinking experiments, as well as water sampling for POC/PN. More information [here](https://www.csiro.au/en/about/facilities-collections/MNF/Voyages-schedules/Voyages/2019/March/IN2019_V02). 
+
+**Sep - Oct 2018**: *RV Investigator* (IN2018_V04, 27 days), East Australian Current and subantarctic Southern Ocean, Tasks: Zooplankton sampling with nets, sinking and decomposition experiments with copepod carcasses, supervision of Master's student. Read the publication [here](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11971). 
+
+**Mar 2018**: *RV Investigator* (IN2018_V02, 18 days), Subantarctic Southern Ocean, Tasks: Zooplankton sampling with nets, CTD sampling for gases and nutrients, testing of zooplankton incubations and carbon flux measurements (faecal pellet production, respiration, decomposition). 
 
 More to follow. 
 
