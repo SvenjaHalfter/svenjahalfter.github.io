@@ -10,6 +10,8 @@ Boyd, P. W., Antoine, D., Baldry, K.A., Cornec, M., Ellwood, M., **Halfter, S.**
 
 ## Peer-reviewed publications
 
+Hill, S.L., Atkinson, A., Arata, J.A., Belcher, A., (...) **Halfter, S.**, et al. (2024 - provisionally accepted). [Observing change in pelagic animals as sampling methods shift: the case of Antarctic krill](https://www.frontiersin.org/articles/10.3389/fmars.2024.1307402/abstract). Frontiers in Marine Science, 11, p.1307402.
+
 Bisson, K., McMonagle, H., Iglesias, I., **Halfter, S.**, Gallo, N. (2023). [Five reasons to take the precautionary approach to deep sea exploitation](https://www.nature.com/articles/s43247-023-00823-4). Communications Earth and Environment, 4 (1), 153.
 
 Johnston, N. M., Murphy, E. J., Atkinson, A. A., Constable, A. J., Cotté, C. S., Cox, M., Daly, K., Driscoll, R., Flores, H., **Halfter, S.** et al. (2022). [Status, change and futures of zooplankton in the Southern Ocean](https://doi.org/10.3389/fevo.2021.624692). Frontiers in Ecology and Evolution, 9 (June), 1-41. 
