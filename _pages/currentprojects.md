@@ -4,14 +4,14 @@ title: "Research"
 ---
 ## Current projects
 
-**Antarctic Science Platform (ASP)**
+**Antarctic Science Platform (since 2022)**
 [ASP](https://www.antarcticscienceplatform.org.nz/) supported sea ice- and ship-based fieldwork in the 2022/2023 season, as well as the most recent voyage on the Italian icebreaker *RV Laura Bassi* in Jan-Mar 2024. Objectives are an improved understanding of the pelagic and sympagic ecosystem in the Ross Sea with a particular focus on changes in the zooplankton community with climate change. 
 
 **Continuous Plankton Recorder project (since 2022)**
 During the last voyages on the *RV Tangaroa* and *RV Laura Bassi*, I was responsible for the deployment of the Continuous Plankton Recorder. Together with Dr. Matt Pinkerton, I'm currently working on the final report for MBIE to be submitted in April 2024. 
 
 **JETZON (since 2021)**
-I'm part of the [Joint Exploration of the Twilight Zone Ocean Network](https://jetzon.org/) ECR group and currently lead a working group to benchmark the active component in the Biological Carbon Pump, with Dr. Deborah Steinberg (VIMS, USA) as a mentor. The publication is expected to be submitted in July 2024. 
+I'm part of the [Joint Exploration of the Twilight Zone Ocean Network](https://jetzon.org/) ECR group and currently lead a working group to benchmark the active component in the Biological Carbon Pump, with Dr. Deborah Steinberg (VIMS, USA) as a mentor. The publication is expected to be submitted in July 2024. Read the previous publication of the ECR group [here](https://www.nature.com/articles/s43247-023-00823-4). 
 
 **SOOS leadership (since 2020)**
 Since November 2020, I have been part of the leadership team of the Regional Working Group for the Indian Sector of the Southern Ocean ([SOOS](https://www.soos.aq/activities/rwg/sois)). We aim for coordination and implementation of the ocean observing system in the region and cumulating efforts in fieldwork planning up to data management. At the moment, I am working on reviewing the spatial and temporal coverage of ocean observations in the region.
