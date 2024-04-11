@@ -6,6 +6,8 @@ title: "Publications"
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## Peer-reviewed publications
+Boyd, P.W., Arrigo, K.R., Ardyna, M., **Halfter, S.**, et al. (2024). [The role of biota in the Southern Ocean carbon cycle](https://doi.org/10.1038/s43017-024-00531-3). Nature Reviews Earth & Environment. 
+
 Boyd, P. W., Antoine, D., Baldry, K.A., Cornec, M., Ellwood, M., **Halfter, S.**, et al., (2024). [Controls on Polar Southern Ocean Deep Chlorophyll Maxima: Viewpoints from Multiple Observational Platforms](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GB008033). Global Biogeochemical Cycles, 38, e2023GB008033. 
 
 Hill, S.L., Atkinson, A., Arata, J.A., Belcher, A., (...) **Halfter, S.**, et al. (2024). [Observing change in pelagic animals as sampling methods shift: the case of Antarctic krill](https://doi.org/10.3389/fmars.2024.1307402). Frontiers in Marine Science, 11 (March), p.1307402.
