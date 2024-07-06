@@ -36,6 +36,8 @@ Brasier, M. J., McCormack, S., Bax, N., Caccavo, J. A., Cavan, E., Ericson, J. A
 
 ## Technical reports (Internal/external)
 
+Pinkerton, M.H., **Halfter, S.**, Stewart, R., Robinson, K. (2024). Zooplankton and microplastic in the Southern Ocean: Continuous Plankton Recorder sampling to 2023 with special focus on the Ross Sea sector. New Zealand Aquatic Environment and Biodiversity Report. Submitted in June 2024. Fisheries New Zealand, 96pp. 
+
 Pinkerton, M.H., and **Halfter, S.** (2023). Environmental change in the Southern Ocean: observations, trends, bioregions, and species-distribution models. CCAMLR, Hobart, Australia, 4pp. 
 
 Pinkerton, M.H., Adams, C.I.M., Behrens, E., Devine, J., Eisert, R., Finucci, B., Grüss, A., **Halfter, S.** et al. (2023). New Zealand research and monitoring in support of the Ross Sea region Marine Protected Area: 2022–2023 update. Report number: WG-EMM_2023/07. CCAMLR, Hobart, Australia, 16pp. 
