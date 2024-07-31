@@ -36,6 +36,8 @@ Brasier, M. J., McCormack, S., Bax, N., Caccavo, J. A., Cavan, E., Ericson, J. A
 
 ## Technical reports (Internal/external)
 
+Plasman, C., Hancock, A., Raymond, B., Fierro Arcos, D., Evans, K., Swadling, K., Henley, S., **Halfter, S.**, et al. (2024). [Designing Southern Ocean E(B)V workflows from data collection to data products](https://doi.org/10.5281/zenodo.11060582). Towards a Distributed System for Essential Variables for the Southern Ocean, Hobart, TAS. Zenodo. 
+
 Pinkerton, M.H., **Halfter, S.**, Stewart, R., Robinson, K. (2024). Zooplankton and microplastic in the Southern Ocean: Continuous Plankton Recorder sampling to 2023 with special focus on the Ross Sea sector. New Zealand Aquatic Environment and Biodiversity Report. Submitted in June 2024. Fisheries New Zealand, 96pp. 
 
 Pinkerton, M.H., and **Halfter, S.** (2023). Environmental change in the Southern Ocean: observations, trends, bioregions, and species-distribution models. CCAMLR, Hobart, Australia, 4pp. 
