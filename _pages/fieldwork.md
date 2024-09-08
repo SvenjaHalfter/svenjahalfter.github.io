@@ -2,13 +2,13 @@
 permalink: /fieldwork/
 title: "Fieldwork"
 ---
-*Upcoming*
+##Upcoming
 
 **Oct-Nov 2024**: Sea ice camp K892 (~ 5.5 weeks), McMurdo Sound, Ross Sea
 
 **Jan-Feb 2025**: *RV Tangaroa* (TAN2502, 6 weeks): western Ross Sea between Victoria Land and Ross Island
 
-*Completed*
+##Completed
 
 **Jan-Mar 2024**: *RV Laura Bassi* (36 days), Ross Ice Shelf, eastern and northwestern Ross Sea, Tasks: Zooplankton collection with nets and the Continuous Plankton Recorder. Assisting with drone flights, water sampling, and acoustic calibrations. More information [here](https://www.antarcticscienceplatform.org.nz/research/biodiversity-voyage). 
 
