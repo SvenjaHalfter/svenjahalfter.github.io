@@ -55,6 +55,8 @@ Newman, L., Hancock, M. A., Hofmann, E., Williams, M. J. M., Henley, S. F.,(...)
 Sakurai, H., Moteki, M., Shimada, K., Tachibana, A., Yasuda, M., Tanaka, A., Hamamoto, H., Weldrick, C., **Halfter, S.** et al. (2020). [Plankton sampling by the training vessel Umitaka-maru in the Indian sector of the Southern Ocean in the austral summer of 2020](https://www.researchgate.net/publication/343442106_Plankton_sampling_by_the_training_vessel_Umitaka-maru_in_the_Indian_sector_of_the_Southern_Ocean_in_the_austral_summer_of_2020). JARE DATA REPORTS (Marine Biology), 67, 1–8. 
 
 ## Other publications/popular press
+**Halfter, S.**, McCarthy, A., Cárdenas, L., Hughes, K.A. (2024). [Marine non-native species in the Southern Ocean and Antarctica](https://doi.org/10.48361/KTPR-9K03). Antarctic Environments Portal. 
+
 ABC News (02/10/2022), “Scientists hopeful tiny ocean zooplankton will help tell if climate change targets are met” ([Link](https://www.abc.net.au/news/2022-10-02/zooplankton-study-southern-ocean-co2-global-warming/101490946))  
 
 **Halfter, S.** (2020). Treasure from the Deep - Using sediment traps to understand deep-sea biodiversity and carbon flux. ECO magazine, Polar Special Issue, pages 64-67. Available [here](http://digital.ecomagazine.com/publication/?i=674747&ver=html5&p=64).
