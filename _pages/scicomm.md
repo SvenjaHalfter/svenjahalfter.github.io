@@ -1,15 +1,18 @@
 ---
 permalink: /scicomm/
-title: "Teaching & SciComm"
+title: "SciComm & Teaching"
 ---
 
-I believe: 
+## Science communication
 
-(1) Science should be accessible for everyone regardless of age, gender, nationality or socialeconomic background.
+I enjoy talking about my science to a broader audience! For example, I had the chance to give public talks in the past, including a [Seaweek Webinar](https://seaweek.org.nz/news/exploring-marine-protected-areas) in July 2024, a presentation of the highlights of the 2022/23 fieldwork season in the "Fresh off the ice" series for the New Zealand Antarctic Society in March 2023, or a talk at the Little Creatures Brewery in Fremantle in March 2020 on the International Women's Day. 
 
-(2) My projects are only finished, once results are properly communicated.
+During my PhD in Australia, I was involved in the [Young Tassie Scientist](http://youngtassiescientists.com/) program. During the [National Science Week Australia](https://www.scienceweek.net.au/) in July-August every year, I presented my science in an engaging way to over 1000 school kids from Kindergarten to Year 12 in schools all over Tasmania (2018 and 2021 in person, 2020 virtually), created videos about my life and work as marine scientist, and did a radio interview for ABC Hobart. Watch my video [here](https://www.youtube.com/watch?reload=9&v=imvr14ruOrw&feature=emb_logo&ab_channel=TassieScienceWeek)! I also participated in events such as IMAS Open Days, the Australian Antarctic Festival, or the [Beaker Street Festival](https://www.beakerstreet.com.au/) as a "roving scientist". 
 
-(3) Everybody can understand science, and it only relies on good scicomm skills!
+<figure>
+   <img src="/assets/images/YTS_pic.jpg" style="float: right;" height = "200" alt="">
+   <figcaption>I introduced the students to zooplankton, in particular copepods (August 2018).</figcaption>
+</figure>
 
 ## Teaching
 During my time in Australia, I tutored and lectured in the following university courses: 
@@ -23,18 +26,4 @@ University of Tasmania
 Macquarie University
 - CAPSTAN Voyage 3 (Mar 2020)
 
-
-## Science communication
-As part of the [National Science Week Australia](https://www.scienceweek.net.au/), I was involved in the [Young Tassie Scientist](http://youngtassiescientists.com/) program in 2018, 2020 and 2021. I talked to over 1000 school kids from Kindergarten to Year 12 in schools all over Tasmania (2018 and 2021 in person, 2020 virtually), created videos about my life and work as marine scientist and did a radio interview for ABC Hobart. Watch my video [here](https://www.youtube.com/watch?reload=9&v=imvr14ruOrw&feature=emb_logo&ab_channel=TassieScienceWeek)!
-
-<figure>
-   <img src="/assets/images/YTS_pic.jpg" style="float: right;" height = "200" alt="">
-   <figcaption>I introduced the students to zooplankton, in particular copepods (August 2018).</figcaption>
-</figure>
-
-I also enjoy giving public talks, for example in March 2020 as part of the International Women's Day in the Little Creatures Brewery in Fremantle or for the NZ Antarctic Society in March 2023. 
-
-<figure>
-   <img src="/assets/images/Flyer - FoTI 2023.png" style="float: right;" height = "200" alt="">
-</figure>
-
+My current position does not include any teaching but I am always open to give guest lectures (online or in person). Please contact me! 
