@@ -32,5 +32,18 @@ title: "Fieldwork"
 
 **Mar 2018**: *RV Investigator* (IN2018_V02, 18 days), Subantarctic Southern Ocean, Tasks: Zooplankton sampling with nets, CTD sampling for gases and nutrients, testing of zooplankton incubations and carbon flux measurements (faecal pellet production, respiration, decomposition). 
 
-More to follow. 
+**Aug-Oct 2017**: *MS Lagoa* & *MS Insular*, central Atlantic Ocean, several trips between Portugal, the Azores, the Canaries, Madeira, and Cape Verde, Tasks: Marine mammal observations with a focus on whales and dolphins for the CETUS project (coordinated by CIIMAR, Porto). 
+
+**Jul-Aug 2017**: *RV Solea* (28 days), North Sea - mainly German EEZ, Tasks: Sorting, measuring & weighing fish for the annual demersal fishery survey. 
+
+**Oct 2016**: *MS Polarsyssel* (6 days), Svalbard fjords (Isfjorden, Billefjorden), Tasks: Water and plankton sampling as part of the UNIS course AB-332 Arctic Marine Molecular Ecology.
+
+**Jun 2016**: *RV Sanna* (14 days), Greenland fjords (Nuup Kangerlua, Ameralik), Tasks: Water and plankton sampling as part of the Arctic Marine Ecosystems Course (Aarhus University, Denmark, & GINR, Greenland).
+
+**Mar-Apr 2016**: Arctic land- and ice-based fieldwork as part of the UNIS courses AB-333 Arctic Winter Ecology and AB-330 Ecosystems in ice-covered waters, Tasks: Physical measurements and biological sampling of frozen freshwater lakes and streams and the ice-covered Van Mijen fjord, respectively. 
+
+**Jan 2014**: *RV Alkor*, Baltic Sea, day trip as part of the course Status assessment of marine waters (undergraduate unit in the BSc Biological Sciences, University of Rostock, Germany), Tasks: Physical, chemical, and biological sampling of the water column. 
+
+**Aug 2013**: *RV Mya II*, North Sea, day trip as part of the elective 2-week excursion to the island Helgoland, Tasks: Contributing to the Helgoland Roads time-series (plankton nets, CTD, secchi disk) and sampling of benthic macrozoobenthos. 
+ 
 
