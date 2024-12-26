@@ -15,5 +15,4 @@ Ever wondered on if there are any invasive species in the Southern Ocean? Me and
    <img src="/assets/images/Infographic_nnms.png" style="float: right;" height = "200" alt="">
 </figure>
 
-
 Check out the whole summary [here](https://environments.aq/publications/marine-non-native-species-in-the-southern-ocean-and-antarctica/). 
