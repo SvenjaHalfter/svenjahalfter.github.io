@@ -12,7 +12,7 @@ tags:
 Ever wondered on if there are any invasive species in the Southern Ocean? Me and my amazing co-author team wrote a short summary upon request of the editor of the [Antarctic Environments Portal](https://environments.aq/). The aim of the portal is to link Antarctic science with policy, i.e., make science accessible for policymakers and managers in the Southern Ocean. 
 
 <figure>
-   <img src="/assets/images/Infographic_final_version.jpg" style="float: right;" height = "200" alt="">
+   <img src="/assets/images/Infographic_nnms.png" style="float: right;" height = "200" alt="">
 </figure>
 
 
