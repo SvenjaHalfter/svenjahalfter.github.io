@@ -6,7 +6,9 @@ title: "Publications"
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## Peer-reviewed publications
-Hetherington, E., Anderson, C., Bastian, L., (...) **Halfter, S.** et al.  (2024): [Deepening the Decade: Collaborative action for advancing deep ocean science and policy in the United Nations Decade of Ocean Science for Sustainable Development](https://doi.org/10.1002/lob.10662). Limnology and Oceanography Bulletin. 
+Baker, K., **Halfter, S.**, Scoulding, B., Swadling, K.M., Richards, S.A., Bressac, M., Sutton, C., Boyd, P.W. (2025). [Carbon injection potential of the mesopelagic-migrant pump in the Southern Ocean during summer](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1461723/abstract). Frontiers in Marine Science, 12. 
+
+Hetherington, E., Anderson, C., Bastian, L., (...) **Halfter, S.** et al.  (2024). [Deepening the Decade: Collaborative action for advancing deep ocean science and policy in the United Nations Decade of Ocean Science for Sustainable Development](https://doi.org/10.1002/lob.10662). Limnology and Oceanography Bulletin. 
 
 Boyd, P.W., Arrigo, K.R., Ardyna, M., **Halfter, S.**, et al. (2024). [The role of biota in the Southern Ocean carbon cycle](https://doi.org/10.1038/s43017-024-00531-3). Nature Reviews Earth & Environment. 
 
