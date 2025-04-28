@@ -6,6 +6,10 @@ title: "Publications"
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## Peer-reviewed publications
+Stuart, J., Robinson, N., Stewart, C., Smith, K., Pearman, J., **Halfter, S.,** Ryan, K. (2025). [A glimpse into the future: How the timing of sea ice formation influences associated microalgal communities](https://doi.org/10.1016/j.isci.2025.112417). iScience. 
+
+Nodder, S., Law, C., Behrens, E., Bury, S., Cristi, A., Collins, C., Currie, K., De Verneil, A., Escobar-Flores, P., Fernandez, D., Gall, M., **Halfter, S.** et al. (2025). [Aotearoa New Zealand’s Marine Carbon Cycle in a Changing Climate – Current Understanding and Future directions](https://doi.org/10.1080/00288330.2025.2461289). New Zealand Journal of Marine and Freshwater Research.   
+
 Baker, K., **Halfter, S.**, Scoulding, B., Swadling, K.M., Richards, S.A., Bressac, M., Sutton, C., Boyd, P.W. (2025). [Carbon injection potential of the mesopelagic-migrant pump in the Southern Ocean during summer](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1461723/abstract). Frontiers in Marine Science, 12. 
 
 Hetherington, E., Anderson, C., Bastian, L., (...) **Halfter, S.** et al.  (2024). [Deepening the Decade: Collaborative action for advancing deep ocean science and policy in the United Nations Decade of Ocean Science for Sustainable Development](https://doi.org/10.1002/lob.10662). Limnology and Oceanography Bulletin. 
