@@ -2,11 +2,9 @@
 permalink: /fieldwork/
 title: "Fieldwork"
 ---
-## Upcoming
-
-**Jan-Feb 2025**: *RV Tangaroa* (TAN2502, 6 weeks): western Ross Sea between Northern Victoria Land and Ross Island. 
-
 ## Completed
+
+**Jan-Feb 2025**: *RV Tangaroa* (TAN2502, 6 weeks): western Ross Sea between Northern Victoria Land and Ross Island. Tasks: Deployment of nets and CPR, water filtration for POC, Chl-a, and nutrients, underway sampling, sorting of micronekton. 
 
 **Oct-Nov 2024**: Sea ice camp K892 (39 days), McMurdo Sound, Ross Sea, Tasks: Sampling the platelet and sea ice with SIPL and SIPRE corer, respectively, CTD and water sampling, biological sample processing, assistance with physical measurements. 
 
