@@ -4,6 +4,9 @@ title: "Research"
 ---
 ## Current projects
 
+**Strategic Science Investment Funding (since 2025)**
+I currently lead NIWA's SSIF project "Marine Food Web Dynamics" (NZD 387k), with support from Dr. Matt Pinkerton. Our focus in the financial year 2025/26 will be the impact of Ocean Alkalinity Enhancement on the ecosystem, carbon sequestration in and by the marine ecosystem, and climate change impacts on the marine food web of Aotearoa. 
+
 **Antarctic Science Platform (since 2022)**
 [ASP](https://www.antarcticscienceplatform.org.nz/) supported sea ice and ship-based fieldwork in the past three seasons. Objectives are an improved understanding of the pelagic and sympagic ecosystem in the Ross Sea with a particular focus on changes in the zooplankton community with climate change. 
 
