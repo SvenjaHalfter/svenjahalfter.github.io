@@ -6,7 +6,7 @@ title: "Publications"
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## Peer-reviewed publications
-Grigoratou, M., Menden-Deuer, S., McQuatters-Gollop, A., (…) **Halfter, S.** et al. (2025). [The immeasurable value of plankton to humanity](https://doi.org/10.1093/biosci/biaf049). BioScience. 
+Grigoratou, M., Menden-Deuer, S., McQuatters-Gollop, A., (…) **Halfter, S.** et al. (2025). [The immeasurable value of plankton to humanity](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf049/8172382?utm_source=advanceaccess&utm_campaign=bioscience&utm_medium=email). BioScience. 
 
 Gallo, N.D., Metaxas, A., Lidström, S., (...) **Halfter, S.** et al. (2025). [Illuminating deep-sea considerations and experimental approaches for mCDR proposals](https://iopscience.iop.org/article/10.1088/1748-9326/add8a6). Environmental Research Letters. 
 
