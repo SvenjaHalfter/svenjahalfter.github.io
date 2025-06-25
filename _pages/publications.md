@@ -6,6 +6,8 @@ title: "Publications"
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## Peer-reviewed publications
+Grigoratou, M., Menden-Deuer, S., McQuatters-Gollop, A., (…) **Halfter, S.** et al. (2025). [The immeasurable value of plankton to humanity](https://doi.org/10.1093/biosci/biaf049). BioScience. 
+
 Gallo, N.D., Metaxas, A., Lidström, S., (...) **Halfter, S.** et al. (2025). [Illuminating deep-sea considerations and experimental approaches for mCDR proposals](https://iopscience.iop.org/article/10.1088/1748-9326/add8a6). Environmental Research Letters. 
 
 Stuart, J., Robinson, N., Stewart, C., Smith, K., Pearman, J., **Halfter, S.,** Ryan, K. (2025). [A glimpse into the future: How the timing of sea ice formation influences associated microalgal communities](https://doi.org/10.1016/j.isci.2025.112417). iScience. 
