@@ -3,12 +3,14 @@ permalink: /research/
 title: "Research"
 ---
 ## Current projects
+**Endeavour Program "Catching Marine Carbon: Testing Ocean Solutions for Climate Mitigation using Natural Analogues" (since 2025)**
+Recently, we were successful with an Endeavour Program using natural analogues to understand impacts of marine carbon dioxide removal methods and develop MRV protocols to advice government policies. I'll be involved as a task leader (MRV task), perform experiments in the ocean fertilisation component, as well as participate in several field campaigns around New Zealand.
+
+**Antarctic Science Platform - Phase 2 (since 2025)**
+My research in the next phase of the [Antarctic Science Platform](https://www.antarcticscienceplatform.org.nz/) will focus on (1) the understanding the long-term changes in the zooplankton and krill community in the Ross Sea related to the changing cryosphere and ocean (Oceanography objective), and (2) the fate of the phytoplankton bloom, looking at zooplankton herbivory and carbon export (Ecosystem objective). 
 
 **Strategic Science Investment Funding (since 2025)**
 I currently lead NIWA's SSIF project "Marine Food Web Dynamics" (NZD 387k), with support from Dr. Matt Pinkerton. Our focus in the financial year 2025/26 will be the impact of Ocean Alkalinity Enhancement on the ecosystem, carbon sequestration in and by the marine ecosystem, and climate change impacts on the marine food web of Aotearoa. 
-
-**Antarctic Science Platform (since 2022)**
-[ASP](https://www.antarcticscienceplatform.org.nz/) supported sea ice and ship-based fieldwork in the past three seasons. Objectives are an improved understanding of the pelagic and sympagic ecosystem in the Ross Sea with a particular focus on changes in the zooplankton community with climate change. 
 
 **Continuous Plankton Recorder project (since 2022)**
 During the last voyages on the *RV Tangaroa* and *RV Laura Bassi*, I was responsible for the deployment of the Continuous Plankton Recorder. Together with Dr. Matt Pinkerton, I co-authored the [final report](https://fs.fish.govt.nz/Page.aspx?pk=113&dk=25829) to Fisheries New Zealand for the third phase of the CPR. We are currently awaiting confirmation of further funding to continue the time-series.  
@@ -20,6 +22,9 @@ I'm part of the [Joint Exploration of the Twilight Zone Ocean Network](https://j
 Since November 2020, I have been part of the leadership team of the Regional Working Group for the Indian Sector of the Southern Ocean ([SOOS](https://www.soos.aq/activities/rwg/sois)). We aim for coordination and implementation of the ocean observing system in the region and cumulating efforts in fieldwork planning up to data management. We recently submitted a review on the spatial and temporal coverage of ocean observations in the region.
 
 ## Previous projects
+**Antarctic Science Platform - Phase 1 (2022-2025)**
+[ASP](https://www.antarcticscienceplatform.org.nz/) supported sea ice and ship-based fieldwork in the past three seasons. Objectives are an improved understanding of the pelagic and sympagic ecosystem in the Ross Sea with a particular focus on changes in the zooplankton community with climate change. 
+
 **Ross-RAMP (2022-2023)**
 As part of Ross-RAMP, I participated in Antarctic fieldwork in 2022/23 on the metazoan distribution in the sympagic ecoysystem of McMurdo Sund and the variability of zooplankton communities in the northwestern Ross Sea. I also assisted a PhD project to improve the genetic database of Southern Ocean zooplankton. 
 
