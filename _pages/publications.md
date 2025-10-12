@@ -6,7 +6,17 @@ title: "Publications"
 See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## Peer-reviewed publications
-**Halfter, S.**, Lucà, N., Garzia, A.,  Wieczorek, A.M., Krauzig, N., McInerney, J.B.T., Pollard, G.K., Rappazzo, A.C., Di Palma, S. (2025). [Early career researchers’ recommendations on collaborative science using the Ross Sea as a case study](https://doi.org/10.1093/icesjms/fsaf099). ICES Journal of Marine Science. (joint first-authorship)
+# Accepted
+Fernandez et al. (accepted). Spatiotemporal connections in the Ross Sea: A synthesis from the New Zealand Antarctic Science Platform Ocean Mechanics project. Elementa: Science of the Anthropocene.
+
+Stuart et al. (accepted). Tropics to the poles: A Snapshot of Coastal Eukaryotic Marine Microalgal Diversity Across Five Ecoregions. Molecular Ecology 
+
+Plasman et al. (accepted/in print). Developing Essential Biodiversity Variables for the Southern Ocean: From data gaps to valuable insights. Elementa: Science of the Anthropocene.
+
+# Published 
+**Halfter, S.** et al. (2025). [Status of ocean observations in the Indian Sector of the Southern Ocean](https://doi.org/10.1525/elementa.2024.00098). Elementa: Science of the Anthropocene. 
+
+**Halfter, S.** et al. (2025). [Early career researchers’ recommendations on collaborative science using the Ross Sea as a case study](https://doi.org/10.1093/icesjms/fsaf099). ICES Journal of Marine Science. (joint first-authorship)
 
 Grigoratou, M., Menden-Deuer, S., McQuatters-Gollop, A., (…) **Halfter, S.** et al. (2025). [The immeasurable value of plankton to humanity](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf049/8172382?utm_source=advanceaccess&utm_campaign=bioscience&utm_medium=email). BioScience. 
 
