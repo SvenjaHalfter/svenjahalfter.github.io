@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-See [Google Scholar page](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
+See [Google Scholar](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## Peer-reviewed publications
 # Accepted
