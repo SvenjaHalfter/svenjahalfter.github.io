@@ -11,9 +11,9 @@ Fernandez, D. et al. (accepted). Spatiotemporal connections in the Ross Sea: A s
 
 Plasman, C. et al. (accepted). Developing Essential Biodiversity Variables for the Southern Ocean: From data gaps to valuable insights. Elementa: Science of the Anthropocene.
 
-Kennedy, F. et al. (accepted). Exploring the sequence of mesopelagic particle degradation by marine microbes using Apparent Respiratory Quotients. ISME Journal. 
-
 # Published 
+Kennedy, F., Bressac, M., Butterworth, P., **Halfter, S.**, Boyd, P.W. (2025). [Exploring the sequence of mesopelagic particle degradation by marine microbes using Apparent Respiratory Quotients](https://doi.org/10.1093/ismejo/wraf255). ISME Journal. 
+
 Stuart, J., Ryan, K.,G., Pearman, J., (...), **Halfter, S.** et al. (2025). [Tropics to the poles: A Snapshot of Coastal Eukaryotic Marine Microalgal Diversity Across Five Ecoregions](https://doi.org/10.1111/mec.70136). Molecular Ecology 
 
 **Halfter, S.** et al. (2025). [Status of ocean observations in the Indian Sector of the Southern Ocean](https://doi.org/10.1525/elementa.2024.00098). Elementa: Science of the Anthropocene. 
