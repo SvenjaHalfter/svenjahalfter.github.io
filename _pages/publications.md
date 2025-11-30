@@ -62,6 +62,8 @@ Brasier, M. J., McCormack, S., Bax, N., (...) **Halfter, S.** et al. (2020). [Ov
 
 ## Technical reports (Internal/external)
 
+Yamazaki, K., Foppert, A., Rintoul, S.R., Bindoff, N.L., (...), **Halfter, S.** (2025). [East Antarctica in a Changing Climate: A Research Strategy for Continental Shelf Waters (2025 – 2039)](https://aappartnership.org.au/wp-content/uploads/2025/11/East-Antarctic-Shelf-technical-paper.pdf). AAPP Technical Paper. 
+
 Plasman, C., Hancock, A., Raymond, B., (...) **Halfter, S.** et al. (2024). [Designing Southern Ocean E(B)V workflows from data collection to data products](https://doi.org/10.5281/zenodo.11060582). Towards a Distributed System for Essential Variables for the Southern Ocean, Hobart, TAS. Zenodo. 
 
 Pinkerton, M.H., **Halfter, S.** et al. (2024). Zooplankton and microplastic in the Southern Ocean: Continuous Plankton Recorder sampling to 2023 with special focus on the Ross Sea sector. New Zealand Aquatic Environment and Biodiversity Report. Submitted in June 2024. Fisheries New Zealand, 96pp. 
