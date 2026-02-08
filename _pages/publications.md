@@ -6,10 +6,9 @@ title: "Publications"
 See [Google Scholar](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=en) for further updates. 
 
 ## Peer-reviewed publications
-# Accepted
-Plasman, C. et al. (accepted). Developing Essential Biodiversity Variables for the Southern Ocean: From data gaps to valuable insights. Elementa: Science of the Anthropocene.
-
 # Published 
+Plasman, C., Hancock, A., Raymond, B., (...) **Halfter, S.** et al. (2026). [Developing Essential Biodiversity Variables for the Southern Ocean: From data gaps to valuable insights](https://doi.org/10.1525/elementa.2025.00038). Elementa: Science of the Anthropocene.
+
 Fernandez, D., Stevens, C., Riesselman, C., (...) **Halfter, S.** et al. (2025). [Spatiotemporal connections in the Ross Sea: A synthesis from the New Zealand Antarctic Science Platform Ocean Mechanics project](https://doi.org/10.1525/elementa.2024.00097). Elementa: Science of the Anthropocene.
 
 Kennedy, F., Bressac, M., Butterworth, P., **Halfter, S.**, Boyd, P.W. (2025). [Exploring the sequence of mesopelagic particle degradation by marine microbes using Apparent Respiratory Quotients](https://doi.org/10.1093/ismejo/wraf255). ISME Journal. 
