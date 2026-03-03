@@ -29,5 +29,5 @@ My main research interests are:
 
 # Contact
 
-Send me an email: Svenja.Halfter@niwa.co.nz.
+Send me an email: Svenja.Halfter@earthsciences.nz
 
