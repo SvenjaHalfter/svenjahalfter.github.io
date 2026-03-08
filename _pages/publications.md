@@ -7,6 +7,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=STbyB6EAAAAJ&hl=e
 
 ## Peer-reviewed publications
 # Published 
+Kim, S.H., **Halfter, S.** et al. (2026). [Major shift in mesozooplankton community structure after spring bloom in the Ross Sea Region Marine Protected Area](https://doi.org/10.1016/j.seares.2026.102690). Journal of Sea Research, p.102690. 
+
 Plasman, C., Hancock, A., Raymond, B., (...) **Halfter, S.** et al. (2026). [Developing Essential Biodiversity Variables for the Southern Ocean: From data gaps to valuable insights](https://doi.org/10.1525/elementa.2025.00038). Elementa: Science of the Anthropocene.
 
 Fernandez, D., Stevens, C., Riesselman, C., (...) **Halfter, S.** et al. (2025). [Spatiotemporal connections in the Ross Sea: A synthesis from the New Zealand Antarctic Science Platform Ocean Mechanics project](https://doi.org/10.1525/elementa.2024.00097). Elementa: Science of the Anthropocene.
